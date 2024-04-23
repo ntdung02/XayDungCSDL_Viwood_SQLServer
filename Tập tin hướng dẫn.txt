@@ -1,0 +1,36 @@
+-----------------HƯỚNG DẪN ĐỒ ÁN HỌC PHẦN HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU 1----------------
+
+Mã lớp học phần: 5401
+Sinh viên thực hiện 1: Nguyễn Thùy Dung - 2021010122
+Sinh viên thực hiện 2: Lê Thị Hoa - 2021010154
+Đề tài: QUẢN TRỊ CƠ SỞ DỮ LIỆU HỆ THỐNG QUẢN LÝ BÁN HÀNG TẠI CỬA HÀNG NỘI THẤT VIWOODS
+
+
+[1]. CÁC CÔNG CỤ CÀI ĐẶT:
+- Microsoft SQL Server
+- Power Designer
+- Tableau
+
+[2]. GIỚI THIỆU SƠ LƯỢC VỀ CÁC THƯ MỤC
+Thư mục 5401_2021010122_NguyenThuyDung_2021010154_LeThiHoa bao gồm có các thư mục con sau:
+
+"Báo cáo"
+- File Word: Trình bày báo cáo chi tiết về đề tài
+- File PDF: File dự phòng
+
+"Cơ sở dữ liệu "
+- File CSDLmau.bak chứa cơ sở dữ liệu mẫu backup của đề tài
+
+- File CSDLmau_ViWoods.sql chứa cơ sở dữ liệu mẫu
+
+"Hình ảnh"
+- Chứa những hình ảnh về quy trình nghiệp vụ và sơ đồ Diagram, ERD của đề tài
+
+"Ứng dụng"
+- File UngDungChuong3_Chuong4.sql 
+
+
+File "HUONGDAN" có đuôi .txt: Hướng dẫn của đồ án học phần và giới thiệu các thư mực
+
+
+
